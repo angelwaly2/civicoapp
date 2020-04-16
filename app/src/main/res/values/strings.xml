@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CivicoApp</string>
+    <string name="title_activity_mi_mapa">Map</string>
+    <string-array name="terminos">
+        <item>transmilenio</item>
+        <item>restaurantes</item>
+        <item>cines</item>
+    </string-array>
+</resources>
